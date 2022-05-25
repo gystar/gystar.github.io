@@ -1862,8 +1862,8 @@ input::-moz-focus-inner {
 }
 
 .s-pageheader--home {
-    min-height: 480px;
-    padding-top: 222px;
+    min-height: 50px;
+    padding-top: 140px;
 }
 
 .header {
